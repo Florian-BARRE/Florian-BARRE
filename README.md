@@ -1,25 +1,17 @@
 <!-- ============================================= -->
-<!-- HEADER: animated banner + typing intro       -->
+<!-- HEADER                                        -->
 <!-- ============================================= -->
 
 <div align="center">
 
-<a href="https://florianbarre.fr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Florian%20Barre&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full-Stack&descAlignY=60&descSize=18" alt="header"/>
-</a>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Florian%20Barre&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full-Stack&descAlignY=60&descSize=18)](https://florianbarre.fr)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Data+Engineer+%2F+AI+Engineer+%40+AFD;Building+RAG+systems%2C+vector+databases+%26+LLM+pipelines;Quant+research%2C+IoT+%26+self-hosted+infrastructure;ESILV+%E2%80%A2+M2+Data+%26+AI+%E2%80%A2+Paris" alt="typing"/>
-</a>
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Data+Engineer+%2F+AI+Engineer+%40+AFD;Building+RAG+systems%2C+vector+databases+%26+LLM+pipelines;Quant+research%2C+IoT+%26+self-hosted+infrastructure;ESILV+%E2%80%A2+M2+Data+%26+AI+%E2%80%A2+Paris)](https://git.io/typing-svg)
 
-<br/>
-
-<p>
-  <a href="https://florianbarre.fr"><img src="https://img.shields.io/badge/Portfolio-florianbarre.fr-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/barre-florian/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:florian.barre78@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Florian-BARRE&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-florianbarre.fr-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://florianbarre.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barre-florian/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.barre78@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Florian-BARRE&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -27,7 +19,7 @@
 <!-- ABOUT ME                                      -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About me
+## 🎯 About me
 
 ```yaml
 name:       Florian Barre
@@ -53,11 +45,7 @@ currently_building:
 <!-- TECH STACK                                    -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
+## 🛠️ Tech stack
 
 **Languages**
 
@@ -84,9 +72,6 @@ currently_building:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
 **Front-end**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -102,26 +87,19 @@ currently_building:
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 
-**IoT / Hardware**
+**IoT / Hardware / Robotics**
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat-square&logo=esphome&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Robotics**
-
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <!-- ============================================= -->
 <!-- GITHUB STATS                                  -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> GitHub stats
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -139,55 +117,22 @@ currently_building:
 </div>
 
 <!-- ============================================= -->
-<!-- FEATURED PROJECTS                             -->
+<!-- FEATURED PROJECTS - flat markdown for safety  -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Featured projects
+## ⭐ Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![LoggerPlusPlus](https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=LoggerPlusPlus&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/Florian-BARRE/LoggerPlusPlus)
+[![TaskBrain](https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=TaskBrain&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/Florian-BARRE/TaskBrain)
 
-<a href="https://github.com/Florian-BARRE/LoggerPlusPlus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=LoggerPlusPlus&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Florian-BARRE/TaskBrain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=TaskBrain&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Florian-BARRE/ArUcO_Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=ArUcO_Vision&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Florian-BARRE/FLOlib_Floker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=FLOlib_Floker&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-</a>
-
-</td>
-</tr>
-</table>
+[![ArUcO_Vision](https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=ArUcO_Vision&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/Florian-BARRE/ArUcO_Vision)
+[![FLOlib_Floker](https://github-readme-stats.vercel.app/api/pin/?username=Florian-BARRE&repo=FLOlib_Floker&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/Florian-BARRE/FLOlib_Floker)
 
 <!-- ============================================= -->
 <!-- WHAT I'M WORKING ON                           -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/W5Vd5g9k3SmlO/giphy.gif" width="28"/> What I'm currently building
-
-<table>
-<tr>
-<td valign="top">
+## 🚀 What I'm currently building
 
 🧠 &nbsp; **AI & RAG platforms** — Production-grade chatbots, semantic document search and multi-agent systems on top of Qdrant, FastAPI and modern LLMs.
 
@@ -199,15 +144,11 @@ currently_building:
 
 📈 &nbsp; **Financial pattern detection** — Transformer-based time-series classifier on harmonic chart patterns, with temporal cross-validation across two decades of market data.
 
-</td>
-</tr>
-</table>
-
 <!-- ============================================= -->
-<!-- ACTIVITY GRAPH                                -->
+<!-- ACTIVITY GRAPH + SNAKE                        -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> Activity
+## 📈 Activity
 
 <div align="center">
 
@@ -215,7 +156,7 @@ currently_building:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Florian-BARRE/Florian-BARRE/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+![snake animation](https://raw.githubusercontent.com/Florian-BARRE/Florian-BARRE/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -223,22 +164,20 @@ currently_building:
 <!-- FOOTER                                        -->
 <!-- ============================================= -->
 
+## 🤝 Let's connect
+
 <div align="center">
 
-<br/>
-
-### Let's connect
-
-<a href="https://florianbarre.fr"><img src="https://img.shields.io/badge/-florianbarre.fr-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/barre-florian/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:florian.barre78@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/-florianbarre.fr-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://florianbarre.fr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barre-florian/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.barre78@gmail.com)
 
 <br/>
 
-<i>"Designing robust, scalable and performant solutions to tackle complex technical challenges with efficiency and agility."</i>
+*"Designing robust, scalable and performant solutions to tackle complex technical challenges with efficiency and agility."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
